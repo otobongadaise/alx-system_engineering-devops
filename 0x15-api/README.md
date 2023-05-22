@@ -1,4 +1,4 @@
 # API
 #Author
-Umar Faruq Adam
-<Umarfaruqadam03@gmail.com>
+Otobong Adaise
+<otobongadaise@yahoo.com>
